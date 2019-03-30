@@ -100,5 +100,3 @@ Considero importante ter o Endereço ou mesmo uma classe Contato reservado em um
 Considerando o produto/insumo:
 	Ele já deve entrar em um estoque com um destino?
 	Caso contrário teríamos que ter um registro de solicitações/pedidos, informando data de saída, o destino do insumo/produto e informação de autorização e solicitação.
-
->>>>>>> 9bbf9425124c7c3e5a71fc4746ba207e883c9903
